@@ -4532,7 +4532,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'W,A,S,D - Movement
+  m_Text: 'Arrows - Movement
 
     Space - Jump
 

@@ -89,12 +89,12 @@ public class ScriptWorm : MonoBehaviour
 
             if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
             {
-                transform.Rotate(0f, 0.1f, 0f);
+                transform.Rotate(0f, 0.2f, 0f);
             }
 
             if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
             {
-                transform.Rotate(0f, -0.1f, 0f);
+                transform.Rotate(0f, -0.2f, 0f);
             }
 
             if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow)) //Reset Rotation
